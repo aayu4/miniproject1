@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+  <title>Integration of Webservice With Indian Railways</title>
+  <meta name="description" content="free website template" />
+  <meta name="keywords" content="enter your keywords here" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=9" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/image_slide.js"></script>
+</head>
+
+<body>
+  <div id="main">
+    <div id="header">
+	  <div id="banner">
+	    <div id="welcome">
+	      <h1><span>Assignment</span> Work</h1>
+	    </div><!--close welcome-->
+	    <div id="welcome_slogan">
+	      <h1>The merit of originality is not novelty; it is sincerity.</h1>
+	    </div><!--close welcome_slogan-->
+	  </div><!--close banner-->
+    </div><!--close header-->
+
+	<div id="menubar">
+      <ul id="menu">
+        <li class="current"><a href="index.html">Home</a></li>
+        <li><a href="https://maps.google.com/landing/transit/index.html">Part 1. Specify source and destination</a></li>
+	    <li><a href="http://railradar.railyatri.in/">Part 2. Specify train no</a></li>
+             </ul>
+    </div><!--close menubar-->	
+    <div id="site_content">		
+	  <div class="sidebar_container">       
+      <div class="sidebar">
+          <div class="sidebar_item">
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:aditi.hooda@gmail.com">aditi.hooda@gmail.com</a>
+			<a href="mailto:mittal25aayushi@gmail.com">mittal25aayushi@gmail.com</a></p>
+          </div><!--close sidebar_item--> 
+        </div><!--close sidebar-->
+       </div><!--close sidebar_container-->	
+	   <ul class="slideshow">
+        <li class="show"><img width="680" height="250" src="images/home_1.jpg" alt="&quot;Give your best&quot;" /></li>
+        <li><img width="680" height="250" src="images/home_2.jpg" alt="&quot;Give your best&quot;" /></li>
+      </ul>   	 
+      <div id="content">
+        <div class="content_item">
+		  <h1>Welcome To Our Website</h1> 
+	      <p><b><font color=maroon face=Castellar size=3>Building a website to integrate any available map service (such as Google Maps, Bing map, Wiki Map etc) with Indian Rail Enquiry service</font></b></p>
+      </div><!--close content-->   	
+	</div><!--close site_content-->  
+	 </div><!--close main-->
+  <div id="footer">  A simple effort by  :  ADITI HOODA and AYUSHI MITTAL</div><!--close footer-->  
+</body>
+</html>
